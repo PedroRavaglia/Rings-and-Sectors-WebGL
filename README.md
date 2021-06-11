@@ -2,7 +2,7 @@
 
 An implementation of WebGL shaders using distance functions to generate patterns of rings, sectors and 4 combinations of these patterns.
 
-### [Implementation](https://pedroravaglia.github.io/Rings-and-Sectors-WebGL/Rings_Sectors.html)
+### Here is the [Implementation](https://pedroravaglia.github.io/Rings-and-Sectors-WebGL/Rings_Sectors.html)
 
 # About
 
